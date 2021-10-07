@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bibliotheque SYSTEM "medailles.dtd">
+<?xml-stylesheet href="medailles.xsl" type="text/xsl" ?>
+
+
+
+
+<tableau>
+        <ligne>
+            <pays nomDePays = "USA"></pays>
+            <medaille TypeDeMedaille = "or"> 46</medaille>
+            <medaille TypeDeMedaille = "argent"> 37</medaille>
+            <medaille TypeDeMedaille = "bronze"> 38</medaille>
+            
+        </ligne>
+        <ligne>
+            <pays nomDePays = "GrandeBretagne"></pays>
+            <medaille TypeDeMedaille = "or"> 27</medaille>
+            <medaille TypeDeMedaille = "argent"> 23</medaille>
+            <medaille TypeDeMedaille = "bronze"> 17</medaille> 
+        </ligne>
+        <ligne>
+            <pays nomDePays = "Chine"></pays>
+            <medaille TypeDeMedaille = "or"> 26</medaille>
+            <medaille TypeDeMedaille = "argent"> 18</medaille>
+            <medaille TypeDeMedaille = "bronze"> 26</medaille>
+        </ligne>
+        <ligne>
+            <pays nomDePays = "Russie"></pays>
+            <medaille TypeDeMedaille = "or"> 19</medaille>
+            <medaille TypeDeMedaille = "argent"> 18</medaille>
+            <medaille TypeDeMedaille = "bronze"> 19</medaille>
+        </ligne>
+        <ligne>
+            <pays nomDePays = "Allemagne"></pays>
+            <medaille TypeDeMedaille = "or"> 17</medaille>
+            <medaille TypeDeMedaille = "argent"> 10</medaille>
+            <medaille TypeDeMedaille = "bronze"> 15</medaille>
+        </ligne>
+        <ligne>
+            <pays nomDePays = "Japon"></pays>
+            <medaille TypeDeMedaille = "or"> 12</medaille>
+            <medaille TypeDeMedaille = "argent"> 8</medaille>
+            <medaille TypeDeMedaille = "bronze"> 21</medaille>
+        </ligne>
+        <ligne>
+            <pays nomDePays = "France"></pays>
+            <medaille TypeDeMedaille = "or"> 10</medaille>
+            <medaille TypeDeMedaille = "argent"> 18</medaille>
+            <medaille TypeDeMedaille = "bronze"> 14</medaille>
+        </ligne>
+        <ligne>
+            <pays nomDePays = "CorreDuSud"></pays>
+            <medaille TypeDeMedaille = "or"> 9</medaille>
+            <medaille TypeDeMedaille = "argent"> 3</medaille>
+            <medaille TypeDeMedaille = "bronze"> 9</medaille>
+        </ligne>
+        <ligne>
+            <pays nomDePays = "Italie"></pays>
+            <medaille TypeDeMedaille = "or"> 8</medaille>
+            <medaille TypeDeMedaille = "argent"> 12</medaille>
+            <medaille TypeDeMedaille = "bronze"> 8</medaille>
+        </ligne>
+        <ligne>
+            <pays nomDePays = "Australie"></pays>
+            <medaille TypeDeMedaille = "or"> 8</medaille>
+            <medaille TypeDeMedaille = "argent"> 11</medaille>
+            <medaille TypeDeMedaille = "bronze"> 10</medaille>
+        </ligne>
+</tableau>

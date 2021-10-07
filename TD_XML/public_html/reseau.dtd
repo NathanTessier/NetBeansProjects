@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT reseau (appareils)>
+<!ELEMENT appareils (ordinateur) >
+<!ELEMENT ordinateur (marque)>
+<!ELEMENT marque (#PCDATA)>
+<!ATTLIST ordinateur couleur ( noir| blanc| gris) #REQUIRED>
